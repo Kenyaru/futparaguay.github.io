@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 123vh;
+}
+header{
+    background-color: black;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main{
+    background-color: black;
+}
+footer{
+    background-color: black;
+    height: 30vh;
+}
+.club{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+}
